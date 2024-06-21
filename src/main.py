@@ -92,8 +92,6 @@ for pays, valeur in pays_dict.items():
     champs_texte.clear()
     champs_texte.send_keys(pays)
     time.sleep(0.2)
-champs_texte.clear()
-champs_texte.send_keys('Kosovo')
 
 time.sleep(20)
 
