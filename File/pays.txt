@@ -1,0 +1,197 @@
+Albanie
+Allemagne
+Andorre
+Autriche
+Belgique
+Biélorussie
+Bosnie-Herzégovine
+Bulgarie
+Croatie
+Danemark
+Espagne
+Estonie
+Finlande
+France
+Grèce
+Hongrie
+Irlande
+Islande
+Italie
+Kosovo
+Lettonie
+Liechtenstein
+Lituanie
+Luxembourg
+Macédoine du Nord
+Malte
+Moldavie
+Monaco
+Monténégro
+Norvège
+Pays-Bas
+Pologne
+Portugal
+Tchèque
+Roumanie
+Royaume-Uni
+Russie
+Saint-Marin
+Serbie
+Slovaquie
+Slovénie
+Suède
+Suisse
+Ukraine
+Vatican
+Afghanistan
+Arabie Saoudite
+Arménie
+Azerbaïdjan
+Bahreïn
+Bangladesh
+Bhoutan
+Birmanie
+Brunei
+Cambodge
+Chine
+Chypre
+Corée du Nord
+Corée du Sud
+Émirats Arabes Unis
+Géorgie
+Inde
+Indonésie
+Irak
+Iran
+Israël
+Japon
+Jordanie
+Kazakhstan
+Kirghizistan
+Koweït
+Laos
+Liban
+Malaisie
+Maldives
+Mongolie
+Népal
+Oman
+Ouzbékistan
+Pakistan
+Philippines
+Qatar
+Singapour
+Sri Lanka
+Syrie
+Tadjikistan
+Taïwan
+Thaïlande
+Timor Oriental
+Turkménistan
+Turquie
+Viêt Nam
+Yémen
+Afrique du Sud
+Algérie
+Angola
+Bénin
+Botswana
+Burkina Faso
+Burundi
+Cameroun
+Cap-Vert
+Comores
+Côte d'Ivoire
+Djibouti
+Égypte
+Érythrée
+Eswatini
+Éthiopie
+Gabon
+Gambie
+Ghana
+Guinée
+Guinée Équatoriale
+Guinée-Bissau
+Kenya
+Lesotho
+Liberia
+Libye
+Madagascar
+Malawi
+Mali
+Maroc
+Maurice
+Mauritanie
+Mozambique
+Namibie
+Niger
+Nigeria
+Ouganda
+République Centrafricaine
+République Démocratique
+du Congo
+République du Congo
+Rwanda
+Sao Tomé-et-Principe
+Sénégal
+Seychelles
+Sierra Leone
+Somalie
+Soudan
+Soudan du Sud
+Tanzanie
+Tchad
+Togo
+Tunisie
+Zambie
+Zimbabwe
+Antigua-et-Barbuda
+Bahamas
+Barbade
+Belize
+Canada
+Costa Rica
+Cuba
+Dominique
+États-Unis
+Grenade
+Guatemala
+Haïti
+Honduras
+Jamaïque
+Mexique
+Nicaragua
+Panama
+République Dominicaine
+Saint-Christophe-et-Niévès
+Saint-Vincent-et-les-Grenadines
+Sainte-Lucie
+Salvador
+Trinité-et-Tobago
+Argentine
+Bolivie
+Brésil
+Chili
+Colombie
+Équateur
+Guyana
+Paraguay
+Pérou
+Suriname
+Uruguay
+Venezuela
+Australie
+États Fédérés de Micronésie
+Fidji
+Îles Marshall
+Îles Salomon
+Kiribati
+Nauru
+Nouvelle-Zélande
+Palaos
+Papouasie-Nouvelle-Guinée
+Samoa
+Tonga
+Tuvalu
+Vanuatu

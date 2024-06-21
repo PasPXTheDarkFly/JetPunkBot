@@ -1,4 +1,3 @@
-
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
@@ -8,6 +7,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from country_list import available_languages, countries_for_language
 import os
 import time
+
+pays_dict = {}
+fichier_pays = "/home/thedarkfly/git/JetPunkBot/File/pays.txt"
 
 url = "https://www.jetpunk.com/quizzes/pays-du-monde"
 options = Options()
@@ -82,14 +84,21 @@ except Exception as e:
 
 champs_texte = driver.find_element(By.XPATH, '//*[@id="txt-answer-box"]')
 
+with open(fichier_pays, 'r', encoding='utf-8') as f:
+    lignes = f.readlines()
+    for ligne in lignes:
+        pays = ligne.strip()  # Supprime les espaces vides autour des noms de pays
+        # Ici vous pouvez ajouter une valeur associée si nécessaire
+        pays_dict[pays] = None
 
-countries = dict(countries_for_language('fr'))
-for country_code, country_name in countries.items():
+for pays, valeur in pays_dict.items():
     champs_texte.clear()
-    champs_texte.send_keys(country_name)
+    champs_texte.send_keys(pays)
     time.sleep(0.2)
+champs_texte.clear()
+champs_texte.send_keys('Kosovo')
 
-time.sleep(5)
+time.sleep(20)
 
 
 
