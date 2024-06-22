@@ -90,7 +90,7 @@ with open(fichier_pays, 'r', encoding='utf-8') as f:
 for pays, valeur in pays_dict.items():
     champs_texte.clear()
     champs_texte.send_keys(pays)
-    time.sleep(0.1)
+    time.sleep(0.00001)
 time.sleep(20)
 
 
