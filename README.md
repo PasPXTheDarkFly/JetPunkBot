@@ -6,9 +6,10 @@ a bot for resolving "Pays du monde" quizz on JetPunk website
 
 # How to start the bot ?
 
--Open a terminal and go to the file path
+- Open a terminal and go to the file path
 
--Then run this command :
+- Then run this command :
 
-```python python3 main.py ```
+``` python3 main.py ```
+
 
