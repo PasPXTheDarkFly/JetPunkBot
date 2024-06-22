@@ -84,15 +84,13 @@ champs_texte = driver.find_element(By.XPATH, '//*[@id="txt-answer-box"]')
 with open(fichier_pays, 'r', encoding='utf-8') as f:
     lignes = f.readlines()
     for ligne in lignes:
-        pays = ligne.strip()  # Supprime les espaces vides autour des noms de pays
-        # Ici vous pouvez ajouter une valeur associée si nécessaire
+        pays = ligne.strip()
         pays_dict[pays] = None
 
 for pays, valeur in pays_dict.items():
     champs_texte.clear()
     champs_texte.send_keys(pays)
-    time.sleep(0.2)
-
+    time.sleep(0.1)
 time.sleep(20)
 
 
