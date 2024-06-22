@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 pays_dict = {}
-fichier_pays = "/home/thedarkfly/git/JetPunkBot/File/pays.txt"
+fichier_pays = "../File/pays.txt"
 
 url = "https://www.jetpunk.com/quizzes/pays-du-monde"
 options = Options()
